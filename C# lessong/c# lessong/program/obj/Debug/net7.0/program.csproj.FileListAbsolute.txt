@@ -1,0 +1,15 @@
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/bin/Debug/net7.0/program
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/bin/Debug/net7.0/program.deps.json
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/bin/Debug/net7.0/program.runtimeconfig.json
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/bin/Debug/net7.0/program.dll
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/bin/Debug/net7.0/program.pdb
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.csproj.AssemblyReference.cache
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.AssemblyInfoInputs.cache
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.AssemblyInfo.cs
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.csproj.CoreCompileInputs.cache
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.dll
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/refint/program.dll
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.pdb
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/program.genruntimeconfig.cache
+/Users/alhilalhilalsood/Desktop/C# lessong/c# lessong/program/obj/Debug/net7.0/ref/program.dll
